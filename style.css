@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.herosectionfather{
+    background-color: #0a3f7d;
+    min-height: 75vh;
+}
+.navbarwrappermother{
+    display: flex;
+   align-items: center;
+    justify-content: space-around;
+   height: 80px;
+   color: white;
+}
+.child2{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+   gap: 40px;
+}
+.child2 li a{
+    color: rgb(246, 6, 6);
+    font-size: 20px;
+    text-decoration: none; 
+   
+}
+.child3 a {
+    color: white;
+    text-decoration: none;
+    margin-right: 18px;
+    font-size: 25px;
+}
+.navbat{
+    height: 35px;
+    width: 80px;
+    background: green;
+    color: white;
+    border: none;
+    border-radius: 25px;
+}
+.child3{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
